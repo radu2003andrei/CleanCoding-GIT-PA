@@ -1,3 +1,5 @@
+///Determine if there is a road between 2 restaurants
+
 #include <stdio.h>
 #include <stdlib.h>
 
